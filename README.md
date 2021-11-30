@@ -1,2 +1,3 @@
 # uyeliksistemi
 uyeliksistemi
+ilk önce sql veritabanını localhost phpmyadmine yükleyin ondan sonra veritabanını dosyanızı düzenledikten sonra çalıştırın çalışacaktır...
